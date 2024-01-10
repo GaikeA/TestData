@@ -1,0 +1,5 @@
+userID,UserName,Email,Status,gender,idToBeDeleted,IdToBeUpdated,NameToBeUpdated
+1830811,Sima,S@gmail.com,active,female,5859498,5859488,Mr.Joshi
+1830812,Cheshta,C@gmail.com,active,female,5859497,5859487,Mr.param
+1830813,Pawan,Pawn@gmail.com,Inactive,male,5859495,5859486,Mr.samy
+1830814,Hira,Raj@gmail.com,active,male,5859490,5859485,mr.Hero
